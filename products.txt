@@ -1,3 +1,4 @@
 Banana
 1000 ks
 50 pc
+//detail
